@@ -1,2 +1,2 @@
 # UD_ML
-Houses some (very old) Udacity Machine Learning toy projects
+Houses some (very old) Udacity toy ML projects
